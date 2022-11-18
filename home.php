@@ -473,6 +473,9 @@ function closeNav() {
       <a href = "BRANDING GUIDELINEs.pdf">
       <button id = "br2">Branding Guidelines</button>
       </a>
+        <a href = "https://drive.google.com/drive/folders/19537hUzQ4TNKj0dHdU8ltwfTBZynts14?usp=share_link">
+      <button id = "br2">Promotional Material</button>
+      </a>
 </div>
 </body>
 </html>
